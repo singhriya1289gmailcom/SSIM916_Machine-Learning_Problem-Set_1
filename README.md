@@ -1,8 +1,8 @@
 # SSIM916_Machine-Learning_Problem-Set_1
 
 Diabetes Prediction Analysis
-Project Overview
-This project investigates the predictive power of clinical diagnostic measurements in identifying the risk of Type 2 diabetes. Using the Pima Indians Diabetes dataset, I compare three distinct machine learning paradigms—Logistic Regression, Random Forests, and Stochastic Gradient Descent (SGD) to determine which approach offers the most reliable classification performance for healthcare data.
+
+Project Overview: This project investigates the predictive power of clinical diagnostic measurements in identifying the risk of Type 2 diabetes. Using the Pima Indians Diabetes dataset, I compare three distinct machine learning paradigms—Logistic Regression, Random Forests, and Stochastic Gradient Descent (SGD) to determine which approach offers the most reliable classification performance for healthcare data.
 
 How to Reproduce These Findings
 To replicate the results presented in the analysis, please follow these steps:
